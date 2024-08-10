@@ -24,7 +24,7 @@
   "module": "lib/main.js",
   "dependencies": {
     "@digitalbazaar/rsa-verification-key-2018": "digitalbazaar/rsa-verification-key-2018#initial",
-    "@digitalbazaar/jws-linked-data-signature": "digitalbazaar/jws-linked-data-signature#v3.0.0",
+    "@digitalbazaar/jws-linked-data-signature": "https://github.com/HoneyCombLTD/jws-linked-data-signature#ta_inji_0.9",
     "esm": "3.2.25"
   },
   "devDependencies": {
